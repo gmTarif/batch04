@@ -12,7 +12,7 @@ namespace MyWinApp
 {
     public partial class ArrayForm : Form
     {
-        const int size = 3;
+        const int size = 10;
         int [] number = new int[size];
         
         int index = 0;
